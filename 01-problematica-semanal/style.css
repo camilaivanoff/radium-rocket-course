@@ -1,0 +1,87 @@
+body{
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.header{
+        padding: 0px 0px 0px;
+}
+
+h1{
+    color: #222222;
+    font-family: "Noto Serif", serif;
+    font-size: 36px;
+    margin: 15px 0px 0px;
+    text-align: center;
+}
+
+ul{
+      list-style-type: square;
+}
+
+.footer-media{
+    color: #707070;
+    font-size: 14px;
+    font-family: "Noto-sans", sans-serif;
+}
+
+.footer-media-m1{
+    color: #707070;
+    font-size: 12px;
+    font-family: "Noto-sans", sans-serif;
+    text-transform: uppercase;
+}
+
+.footer-media-m2{
+    color: #707070;
+    font-size: 14px;
+    font-family: "Noto-sans", sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+#footer-media-m2{
+    color: #707070;
+    font-size: 12px;
+    font-family: "Noto-sans", sans-serif;
+    font-style: italic;
+}
+
+#location{
+    display: block;
+    color: #222222;
+    font-size: 14px;
+    font-family: "Noto-sans", sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p{
+    color: #222222;
+    font-size: 21px;
+    font-family: "Noto-serif", serif;
+}
+
+a{
+    color: #5169b8;
+}
+
+a:hover{
+    color: #31409f;
+}
+
+h3{
+    font-family: "Noto sans", sans-serif;
+    font-size: 17px;
+}
+
+.final-paragraph{
+    color: #222222;
+    font-size: 15px;
+    font-family: "Noto-sans", sans-serif;
+}
