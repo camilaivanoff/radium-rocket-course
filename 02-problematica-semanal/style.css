@@ -1,0 +1,204 @@
+body{
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.header{
+        padding: 0px 0px 0px;
+}
+
+h1{
+    color: #222222;
+    font-family: "Noto Serif", serif;
+    font-size: 36px;
+    margin: 15px 0px 0px;
+    text-align: center;
+}
+
+.mail-to{
+    color: #707070;
+    font-family: "Noto-sans", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.mail-to:hover{
+    color: #707070;
+}
+
+.names-references{
+    color: #707070;
+    font-family: "Noto-sans", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+.names-references-m1{
+    color: #707070;
+    font-family: "Noto-sans", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.names-references-m1:hover{
+    color: #707070;
+    text-decoration: underline;
+}
+
+.telephone-references{
+    color: #707070;
+    font-family: "Noto-sans", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+
+.div-media-paragraph{
+    margin-top: 0px;
+    color: #707070;
+    font-family: "Noto-sans", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-top: 0px;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+.ul-header{
+    display: inline-flex;
+    margin-left: 110px;
+}
+
+.ul-footer{
+    display: inline-flex;
+    margin-left: 0px;
+}
+
+.twitter-icon{
+    width: 18.58px;
+    height: 20.00px;
+    padding-right: 25px;
+    font-size: 20px;
+    margin-bottom: 0;    
+}
+
+.facebook-icon{
+    width: 25.00px;
+    height: 27.00px;
+    padding-right: 25px;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 0;   
+}
+
+.email-icon{
+    width: 20.00px;
+    height: 20.00px;
+    padding-right: 25px;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 0;    
+}
+
+.share-icon{
+    width: 20.00px;
+    height: 20.00px;
+    padding-right: 25px;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.telephone-icon{
+    width: 20.00px;
+    height: 20.00px;
+    padding-right: 25px;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+#miami-herald-video{
+    width: 100%;
+    height: 100%;
+    position: static;
+}
+
+.footer-media{
+    color: #707070;
+    font-size: 14px;
+    font-family: "Noto-sans", sans-serif;
+}
+
+.footer-media-m1{
+    color: #707070;
+    font-size: 12px;
+    font-family: "Noto-sans", sans-serif;
+    text-transform: uppercase;
+}
+
+.footer-media-m2{
+    color: #707070;
+    font-size: 14px;
+    font-family: "Noto-sans", sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+#footer-media-m2{
+    color: #707070;
+    font-size: 12px;
+    font-family: "Noto-sans", sans-serif;
+    font-style: italic;
+}
+
+#location{
+    display: block;
+    color: #222222;
+    font-size: 14px;
+    font-family: "Noto-sans", sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p{
+    color: #222222;
+    font-size: 21px;
+    font-family: "Noto-serif", serif;
+}
+
+a{
+    color: #5169b8;
+}
+
+a:hover{
+    color: #31409f;
+}
+
+h3{
+    font-family: "Noto sans", sans-serif;
+    font-size: 19.2px;
+}
+
+.final-paragraph{
+    color: #222222;
+    font-size: 15px;
+    font-family: "Noto-sans", sans-serif;
+}
